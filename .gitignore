@@ -1,0 +1,4 @@
+#ignore all .dox file
+*.docx
+#ignore all .pptx file
+*.pptx
